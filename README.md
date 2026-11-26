@@ -12,8 +12,9 @@ Selected fit-out projects from more than eight years in construction, with archi
 
 <a href="https://charlesjohnsilva.com/">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-map.jpg">
-    <img width="100%" alt="The two portfolio islands and a close-up of the Natural History Museum project stop" src="assets/portfolio-map.gif">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-landing.jpg">
+    <source type="image/webp" srcset="assets/portfolio-landing.webp">
+    <img width="100%" alt="The portfolio landing screen as the time slider moves from morning to night" src="assets/portfolio-landing.gif">
   </picture>
 </a>
 
