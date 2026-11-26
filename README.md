@@ -12,9 +12,9 @@ Selected fit-out projects from more than eight years in construction, with archi
 
 <a href="https://charlesjohnsilva.com/">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-landing.jpg">
-    <source type="image/webp" srcset="assets/portfolio-landing.webp">
-    <img width="100%" alt="The portfolio landing screen as the time slider moves from morning to night" src="assets/portfolio-landing.gif">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-landing-hd.jpg">
+    <source type="image/webp" srcset="assets/portfolio-landing-hd.webp">
+    <img width="100%" alt="The portfolio landing screen as the time slider moves from morning to night" src="assets/portfolio-landing-hd.jpg">
   </picture>
 </a>
 
