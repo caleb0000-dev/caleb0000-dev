@@ -4,17 +4,17 @@
 
 Metro Manila, Philippines · Working with teams worldwide
 
-Construction drawings taught me to think about the handoff: what the reviewer needs to approve, what the workshop needs to make, and what the site team needs to install. That same habit guides my work in AI automation and software. Projects start with how the work gets done, what needs to carry through, and what a good result looks like.
+From shop drawings to software, the work has to make sense to the next person who uses it. Each project starts by tracing how a task moves through a team, where it slows down, and what success looks like. That gives the team a clear basis for deciding what to automate or build.
 
 [Explore the portfolio](https://charlesjohnsilva.com/) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
 
 ## AI Automation Engineering
 
-AI-assisted workflows built around the tools a team already uses. A kickoff audit traces where the work slows down, which steps can be automated, and where people need to review the output or take over.
+AI-assisted workflows for repetitive work across the tools a team already uses. Each workflow keeps a clear review step wherever a person needs to check the output or make a decision.
 
 ## Software Development
 
-Web, mobile, and desktop software built around clear requirements and the way people will use it. Construction informs how I document decisions and plan handoffs. The software work itself spans different industries and use cases.
+Web, mobile, and desktop applications shaped by what people need to get done. Requirements and examples from the team’s day-to-day work guide what to build and how to test it.
 
 ## Selected projects
 
@@ -25,13 +25,5 @@ Web, mobile, and desktop software built around clear requirements and the way pe
 | **Tuklas** · In development | An iPhone-first app for finding cafés and people to explore them with. |
 
 [See the software projects](https://charlesjohnsilva.com/#software)
-
-## Portfolio walkthrough
-
-A 16-second tour of the map, project stops, and a modeled interior. Play with sound for a piece from the portfolio’s strolling mix.
-
-https://github.com/user-attachments/assets/a6cb4061-2223-4358-90d4-d058d3b8adec
-
-[Open the live portfolio](https://charlesjohnsilva.com/) · Music: [“Amberlight” by Scott Buckley](https://www.scottbuckley.com.au/library/amberlight/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Excerpt trimmed and level-adjusted.
 
 **Off the clock** · Anime, worldbuilding, and background art that makes a place feel lived in.
