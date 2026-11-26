@@ -26,4 +26,12 @@ Web, mobile, and desktop applications shaped by what people need to get done. Re
 
 [See the software projects](https://charlesjohnsilva.com/#software)
 
+## Portfolio walkthrough
+
+A 16-second look at the two islands and the project stops on the map. Unmute the player to hear a piece from the portfolio’s strolling mix.
+
+https://github.com/user-attachments/assets/5d3c1a99-4c62-4511-bd17-80c5f9a9950e
+
+[Open the live portfolio](https://charlesjohnsilva.com/) · [“Amberlight” by Scott Buckley](https://www.scottbuckley.com.au/library/amberlight/) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Music excerpt trimmed and level-adjusted.
+
 **Off the clock** · Anime, worldbuilding, and background art that makes a place feel lived in.
