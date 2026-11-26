@@ -4,26 +4,29 @@
 
 Metro Manila, Philippines · Working with teams worldwide
 
-[Explore the portfolio](https://charlesjohnsilva.com/) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/island-workshop.png">
+  <img width="100%" alt="Pixel art of a tiny workshop robot and an island lighthouse at dusk" src="assets/island-workshop.gif">
+</picture>
 
-[![Two modeled islands at night, joined by a bridge and lit by a lighthouse](assets/islands-after-dark.jpg)](https://charlesjohnsilva.com/)
+Welcome to the island workshop. If a task keeps coming back, it earns a workflow diagram. A good diagram usually finds a few things worth automating.
+
+[Explore the islands](https://charlesjohnsilva.com/) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
 
 ## AI Automation Engineering
 
-Builds AI-assisted workflows around the tools a team already uses. Each project starts with a review of how the work gets done, where it slows down, and what a good outcome looks like. Review steps and handoffs stay part of the workflow.
+AI-assisted workflows for teams that want fewer manual steps. Start with the tools already in use, see where work stalls, and keep the checks and handoffs people rely on.
 
 ## Software Development
 
-Builds web, mobile, and desktop software around clear requirements and the way people will use it. Architecture and construction are part of the background, with software work spanning other industries and use cases.
+Web, mobile, and desktop software built around clear requirements and real workflows. Work starts with who needs the tool, what it has to do, and how to tell when it’s working.
 
-## Selected projects
+## On the workbench
 
-| Project | What it explores |
-| --- | --- |
-| **Salikmata AI** | A Mac assistant in development for planning, building, and reviewing work, with local project memory. |
-| **Tuklas** | An iPhone-first app in development for discovering cafés and meeting people. |
-| **Interactive portfolio** | A Three.js tour across two modeled islands, with project cards and an interactive drawing viewer. |
+- **Interactive portfolio** · A Three.js tour of two modeled islands. The lighthouse is part of the map, and the buildings open onto real project work.
+- **Salikmata AI** · A Mac assistant in development for planning, building, and reviewing work, with local project memory.
+- **Tuklas** · An iPhone-first app in development for discovering cafés and finding people to explore them with.
 
-[See project details in the portfolio](https://charlesjohnsilva.com/#software)
+[See the software projects](https://charlesjohnsilva.com/#software)
 
-**Off the clock** · Anime, worldbuilding, and the kind of background art that makes a place feel lived in.
+**Side quests** · Anime background art, worldbuilding, and spending a little too long getting the lighthouse right.
