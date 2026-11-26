@@ -4,7 +4,7 @@
 
 Metro Manila, Philippines · Working with teams worldwide
 
-From shop drawings to software, the work has to make sense to the next person who uses it. Each project starts by tracing how a task moves through a team, where it slows down, and what success looks like. That gives the team a clear basis for deciding what to automate or build.
+Professional background in architectural drafting, BIM coordination, and interior fit-out, including site work in the UAE and Bahrain. Current work spans AI automation and the development of web, mobile, and desktop applications.
 
 ## Portfolio
 
