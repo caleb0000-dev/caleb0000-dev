@@ -6,7 +6,18 @@ Metro Manila, Philippines · Working with teams worldwide
 
 From shop drawings to software, the work has to make sense to the next person who uses it. Each project starts by tracing how a task moves through a team, where it slows down, and what success looks like. That gives the team a clear basis for deciding what to automate or build.
 
-[Explore the portfolio](https://charlesjohnsilva.com/) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
+## Portfolio
+
+Selected fit-out projects from more than eight years in construction, with architectural drafting, BIM coordination, and shop drawings that support fabrication and installation.
+
+<a href="https://charlesjohnsilva.com/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-map.jpg">
+    <img width="100%" alt="The two portfolio islands and a close-up of the Natural History Museum project stop" src="assets/portfolio-map.gif">
+  </picture>
+</a>
+
+[Explore the interactive portfolio](https://charlesjohnsilva.com/) · [Watch the 4K tour with music](https://github.com/caleb0000-dev/caleb0000-dev/blob/main/walkthrough.md)
 
 ## AI Automation Engineering
 
@@ -16,22 +27,9 @@ AI-assisted workflows for repetitive work across the tools a team already uses. 
 
 Web, mobile, and desktop applications shaped by what people need to get done. Requirements and examples from the team’s day-to-day work guide what to build and how to test it.
 
-## Selected projects
+### Software projects in development
 
-| Project | What it does |
-| --- | --- |
-| **Interactive portfolio** | A Three.js site with two custom-modeled islands, an interactive tour, and a project drawing viewer. |
-| **Salikmata AI** · In development | A Mac workspace that brings planning, building, and reviewing together with local project memory. |
-| **Tuklas** · In development | An iPhone-first app for finding cafés and people to explore them with. |
+- **Salikmata AI** is a Mac workspace for planning, building, and reviewing work, with project context stored locally.
+- **Tuklas** is an iPhone-first app for finding cafés and meeting people who want to explore them.
 
-[See the software projects](https://charlesjohnsilva.com/#software)
-
-## Portfolio walkthrough
-
-A 16-second look at the two islands and the project stops on the map. Unmute the player to hear a piece from the portfolio’s strolling mix.
-
-https://github.com/user-attachments/assets/5d3c1a99-4c62-4511-bd17-80c5f9a9950e
-
-[Open the live portfolio](https://charlesjohnsilva.com/) · [“Amberlight” by Scott Buckley](https://www.scottbuckley.com.au/library/amberlight/) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Music excerpt trimmed and level-adjusted.
-
-**Off the clock** · Anime, worldbuilding, and background art that makes a place feel lived in.
+[See the software projects](https://charlesjohnsilva.com/#software) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
