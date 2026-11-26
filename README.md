@@ -4,29 +4,26 @@
 
 Metro Manila, Philippines · Working with teams worldwide
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/island-workshop.png">
-  <img width="100%" alt="Pixel art of a tiny workshop robot and an island lighthouse at dusk" src="assets/island-workshop.gif">
-</picture>
+Construction drawings taught me to think about the handoff: what the reviewer needs to approve, what the workshop needs to make, and what the site team needs to install. That same habit guides my work in AI automation and software. Projects start with how the work gets done, what needs to carry through, and what a good result looks like.
 
-Welcome to the island workshop. If a task keeps coming back, it earns a workflow diagram. A good diagram usually finds a few things worth automating.
-
-[Explore the islands](https://charlesjohnsilva.com/) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
+[Explore the portfolio](https://charlesjohnsilva.com/) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
 
 ## AI Automation Engineering
 
-AI-assisted workflows for teams that want fewer manual steps. Start with the tools already in use, see where work stalls, and keep the checks and handoffs people rely on.
+AI-assisted workflows built around the tools a team already uses. A kickoff audit traces where the work slows down, which steps can be automated, and where people need to review the output or take over.
 
 ## Software Development
 
-Web, mobile, and desktop software built around clear requirements and real workflows. Work starts with who needs the tool, what it has to do, and how to tell when it’s working.
+Web, mobile, and desktop software built around clear requirements and the way people will use it. Construction informs how I document decisions and plan handoffs. The software work itself spans different industries and use cases.
 
-## On the workbench
+## Selected projects
 
-- **Interactive portfolio** · A Three.js tour of two modeled islands. The lighthouse is part of the map, and the buildings open onto real project work.
-- **Salikmata AI** · A Mac assistant in development for planning, building, and reviewing work, with local project memory.
-- **Tuklas** · An iPhone-first app in development for discovering cafés and finding people to explore them with.
+| Project | What it does |
+| --- | --- |
+| **Interactive portfolio** | A Three.js site with two custom-modeled islands, an interactive tour, and a project drawing viewer. |
+| **Salikmata AI** · In development | A Mac workspace that brings planning, building, and reviewing together with local project memory. |
+| **Tuklas** · In development | An iPhone-first app for finding cafés and people to explore them with. |
 
 [See the software projects](https://charlesjohnsilva.com/#software)
 
-**Side quests** · Anime background art, worldbuilding, and spending a little too long getting the lighthouse right.
+**Off the clock** · Anime, worldbuilding, and background art that makes a place feel lived in.
