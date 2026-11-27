@@ -12,9 +12,9 @@ Selected fit-out projects from more than eight years in construction, with archi
 
 <a href="https://charlesjohnsilva.com/">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-landing-hd.jpg">
-    <source type="image/webp" srcset="assets/portfolio-landing-hd.webp">
-    <img width="100%" alt="The portfolio landing screen as the time slider moves from morning to night" src="assets/portfolio-landing-hd.jpg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-landing-2592.jpg">
+    <source type="image/webp" srcset="assets/portfolio-landing-2592.webp">
+    <img width="100%" alt="The portfolio landing screen as the time slider moves from morning to night" src="assets/portfolio-landing-2592.jpg">
   </picture>
 </a>
 
@@ -32,5 +32,10 @@ Web, mobile, and desktop applications shaped by what people need to get done. Re
 
 - **Salikmata AI** is a Mac workspace for planning, building, and reviewing work, with project context stored locally.
 - **Tuklas** is an iPhone-first app for finding cafés and meeting people who want to explore them.
+
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/salikmata-startup.svg">
+  <img src="assets/salikmata-startup-still.svg" width="100%" alt="Salikmata AI starting up, with pale blue orbital rings over an isometric city.">
+</picture>
 
 [See the software projects](https://charlesjohnsilva.com/#software) · [LinkedIn](https://www.linkedin.com/in/charlesjohnsilva/) · [Get in touch](https://charlesjohnsilva.com/#contact)
