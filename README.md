@@ -10,13 +10,19 @@ Professional background in architectural drafting, BIM coordination, and interio
 
 Selected fit-out projects from more than eight years in construction, with architectural drafting, BIM coordination, and shop drawings that support fabrication and installation.
 
+<details open>
+<summary>Portfolio time-of-day preview</summary>
+
 <a href="https://charlesjohnsilva.com/">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-landing-2592.jpg">
-    <source type="image/webp" srcset="assets/portfolio-landing-2592.webp">
-    <img width="100%" alt="The portfolio landing screen as the time slider moves from morning to night" src="assets/portfolio-landing-2592.jpg">
+    <source media="(max-width: 640px)" type="image/webp" srcset="assets/portfolio-time-of-day-1280.webp">
+    <source type="image/webp" srcset="assets/portfolio-time-of-day-2592.webp">
+    <img width="100%" alt="The portfolio landing screen as the time slider moves from morning to night and back" src="assets/portfolio-landing-2592.jpg">
   </picture>
 </a>
+
+</details>
 
 [Explore the interactive portfolio](https://charlesjohnsilva.com/) · [Watch the 4K tour with music](https://github.com/caleb0000-dev/caleb0000-dev/blob/main/walkthrough.md)
 
